@@ -9,3 +9,4 @@ A tracking system for assets.
 
 ## Setup
 Run setup instructions here.
+## Status: Day 5 Completed
