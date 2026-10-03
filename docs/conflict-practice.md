@@ -1,1 +1,1 @@
-Asset label: monitor
+Asset label: laptop and monitor
